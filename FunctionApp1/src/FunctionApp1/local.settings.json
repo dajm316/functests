@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=functionsdinotest8728;AccountKey=52WxZJEeWPWxQqSS+QKGBL4Pb580GxWKnbLyVB20cXpraKP6qLIqp3wsiAtBDt7X0n/RfEJIPRjzV0ok+QGyzQ==;EndpointSuffix=core.windows.net",
+    "AzureWebJobsDashboard": "",
+    "SBConnectionString": "Endpoint=sb://dmtests.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=y1lGFOLeKegi48HsJ28tkbgEf4Rw5CP1WZrwnIHTEF0="
+  }
+}
